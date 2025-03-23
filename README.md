@@ -1,7 +1,4 @@
 
-![Header Image](https://via.placeholder.com/1024x300.png?text=Welcome+to+My+GitHub+Universe)  
-
----
 
 ## 👋 About Me
 
